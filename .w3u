@@ -1,6 +1,7 @@
+
 {"name": "REPLAY TV",
 "image":"https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
-"author": "España",
+"author": "España- HARRY", 
 "groups": [
 
 {"name": "ESPAÑA RFEF",
@@ -70,6 +71,9 @@
 {"name": "ESPAÑA TDT",
 "image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
 "stations": [
+
+{"name":"FOX", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU", 
+"url"http://130887183829321251.ofdos.xyz:80/live/Nintendo47/78648649/321251.ts"}",
 
 {"name":"LA 1", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU", 
 "url":"http://131650560414321277.ofd92622.xyz:80/live/cor39/FxbCj7yHQr/321277.ts"},
