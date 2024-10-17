@@ -1,75 +1,148 @@
 {"nombre": "REPRODUCIR TV",
+
 "imagen": "https://vlink.lol/vfm/play/etelio/Logox/replay2.png",
+
 "autor": "España - Harry",
+
 "grupos": [
 
+
+
 {"nombre": "ESPAÑA RFEF",
+
 "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkwRVk2zOVNG6xqcq0B65JA5THZfzUtashaQ&usqp=CAU",
+
 "estaciones": [
+
+
 
 {"nombre": "1 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://366733083150595391.ofdos.xyz:80/live/Nintendo47/78648649/595391.ts"},
+
+
 
 {"nombre": "2 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595392.ofdos.xyz:80/live/Nintendo47/78648649/595392.ts"},
 
+
+
 {"nombre": "3 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595393.ofdos.xyz:80/live/Nintendo47/78648649/595393.ts"},
 
+
+
 {"nombre": "4 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://366733083150595391.ofdos.xyz:80/live/Nintendo47/78648649/595391.ts"},
 
+
+
 {"nombre": "5 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595394.ofdos.xyz:80/live/Nintendo47/78648649/595394.ts"},
 
+
+
 {"nombre": "6 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595396.ofdos.xyz:80/live/Nintendo47/78648649/595396.ts"},
 
+
+
 {"nombre": "7 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595397.ofdos.xyz:80/live/Nintendo47/78648649/595397.ts"},
 
+
+
 {"nombre": "8 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595398.ofdos.xyz:80/live/Nintendo47/78648649/595398.ts"},
 
+
+
 {"nombre": "9 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595399.ofdos.xyz:80/live/Nintendo47/78648649/595399.ts"},
 
+
+
 {"nombre": "10 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595400.ofdos.xyz:80/live/Nintendo47/78648649/595400.ts"},
 
+
+
 {"nombre": "11RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595401.ofdos.xyz:80/live/Nintendo47/78648649/595401.ts"},
 
+
+
 {"nombre": "12 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595402.ofdos.xyz:80/live/Nintendo47/78648649/595402.ts"},
 
+
+
 {"nombre": "13 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595403.ofdos.xyz:80/live/Nintendo47/78648649/595403.ts"},
 
+
+
 {"nombre": "14 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595404.ofdos.xyz:80/live/Nintendo47/78648649/595404.ts"},
 
+
+
 {"nombre": "15 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595405.ofdos.xyz:80/live/Nintendo47/78648649/595405.ts"},
 
+
+
 {"nombre": "16 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595406.ofdos.xyz:80/live/Nintendo47/78648649/595406.ts"},
 
+
+
 {"nombre": "17 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595407.ofdos.xyz:80/live/Nintendo47/78648649/595407.ts"},
 
+
+
 {"nombre": "18 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595408.ofdos.xyz:80/live/Nintendo47/78648649/595408.ts"},
 
+
+
 {"nombre": "19 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595409.ofdos.xyz:80/live/Nintendo47/78648649/595409.ts"},
 
+
+
 {"nombre": "20 RFEF", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url": "http://163852083929595410.ofdos.xyz:80/live/Nintendo47/78648649/595410.ts"}]},
 
+
+
 {"nombre": "ESPAÑA DEPORTES",
+
 "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0XuRYcj-uV1rqJKwG1-kk10XImLkBIG5Drm_CVtBMdg&s",
+
 "estaciones": [
+
+
 
 {"name":"LIGA CAMPEONES 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU", 
 "url":"http://260423ccssww.toppanel.ru:8080/live/2VH051695W2446341/7wQ3Fwd8P8/325.ts"},
@@ -83,113 +156,221 @@
 {"name":"LIGA CAMPEONES 5", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU", 
 "url":"http://260423ccssww.toppanel.ru:8080/live/2VH051695W2446341/7wQ3Fwd8P8/127961.ts"},
 
+
 {"nombre": "LA LIGA BAR", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
+
 "url": "http://201914315501268042.ofdos.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts"}]},
 
+
+
 {"nombre": "ESPAÑA TDT",
+
 "imagen": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp",
+
 "estaciones": [
 
+
+
 {"name":"LA 1", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://131650560414321277.ofd92622.xyz:80/live/cor39/FxbCj7yHQr/321277.ts"},
 
+
+
 {"name":"LA 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://ultra-premium-pro.xyz:8080/live/967120339tv/kpte568sq/12333.ts"},
 
+
+
 {"name":"ANTENA 3", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://131650560414321106.ofd92622.xyz:80/live/cor39/FxbCj7yHQr/321106.ts"},
 
+
+
 {"name":"CUATRO", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "https://muicon.net:443/marcsjcustom87/YVF5MSY6aXWt/6229"},
 
+
+
 {"nombre": "TELE CINCO", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://opera.ovh:37500/live/212666321787/1928117427/203211.ts"},
 
+
+
 {"name":"LA SEXTA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://91236628198321289.ofgu0827.xyz:80/live/606713587/0786882892/321289.ts"},
 
+
+
 {"name":"CANAL ANDALUCÍA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "https://muicon.net:443/marcsjcustom87/YVF5MSY6aXWt/5895"},
 
+
+
 {"name":"CANAL SUR", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "https://d35x6iaiw8f75z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kbwsl0jk1bvoo/canal_sur_andalucia_es.m3u8"},
 
+
+
 {"name":"LA RESISTENCIA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://910242706360321286.ofgu0827.xyz:80/live/mi1018879/4EPDFnScGGr/321286.ts"},
 
+
+
 {"nombre": "ONETORO", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://ultra-premium-pro.xyz:8080/live/967120339tv/kpte568sq/236540.ts"},
 
+
+
 {"name":"COMEDOR CENTRAL", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12311"},
 
+
+
 {"name":"MOVISTAR ACCION", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12308"},
 
+
+
 {"nombre": "MOVISTAR DRAMA", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12309"},
 
+
+
 {"nombre": "MOVISTAR CINE", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12313"},
 
+
+
 {"name":"AXN MOVIES", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12320"},
 
+
+
 {"nombre": "WARNER", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12336"},
 
+
+
 {"name":"EN FAMILIA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236324"},
 
+
+
 {"nombre": "D MAX", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236333"},
 
+
+
 {"name":"MOVISTAR DOCUMENTALES", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236338"},
 
+
+
 {"name":"ODISEA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236372"},
 
+
+
 {"name": "SERIE MOVISTAR", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236390"},
 
+
+
 {"nombre": "CALLE 13", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236402"},
 
+
+
 {"nombre": "HOLLYWOOD", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236410"},
 
+
+
 {"nombre": "SYFY", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236418"},
 
+
+
 {"name":"CAZA & PESCA", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236326"},
 
+
+
 {"nombre": "CAZAVISION", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236320"},
 
+
+
 {"nombre": "NATIONAL GEOGRAPHIC", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236364"},
 
+
+
 {"name":"SERIE ATRES", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/236395"},
 
+
+
 {"nombre": "DISNEY CHANNEL", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12341"},
 
+
+
 {"nombre": "AMC BREAK", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12365"},
 
-{"nombre": "FOX", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
+
+{"nombre": "ZORRADOR", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://130887183829321251.ofdos.xyz:80/live/Nintendo47/78648649/321251.ts"},
 
+
+
 {"nombre": "MEGA", "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/12406"},
 
+
+
 {"name":"ESCAPA TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://dutthn.runtop.xyz:80/live/me412282/WRVwTeYPbEsH/915010.ts"},
 
+
+
 {"name":"MOVISTAR ORIGINALES", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU",
+
 "url": "http://764714697673321069.ofdos.xyz:80/live/zh57339/XPNXC5KEqA/321069.ts"},
 
 {"name":"MTV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU", 
@@ -204,12 +385,21 @@
 {"name":"M+PLUS 2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXyop_ovkk-OBORjqVcTZXQYuGqM6rVT79Hw&usqp=CAU", 
 "url":"http://260423ccssww.toppanel.ru:8080/live/2VH051695W2446341/7wQ3Fwd8P8/127829.ts"},
 
+
 {"name":CINE Y SERIES 🇪🇦",
+
 "info": "solo celulares",
+
 "imagen": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJ4U1zQMg7UC7hxGcSCG34QutBcr96SxDeosIgCy5eoA&s",
+
 "url": "https://oscar220374.com/",
+
 "incrustar": "verdadero",
+
 "isHost": "verdadero"}]},
 
+
+
 {"name": "RADIOS DE ESPAÑA", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTbIfRXGl9ku-z445PknNeXfuHbcxODY3i5CQ&usqp=CAU",
+
 "url": "https://www.tdtchannels.com/lists/radio.w3u"}]}]}]}
