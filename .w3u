@@ -101,6 +101,15 @@
 {"name":"LIGA CAMPEONES 5", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s", 
 "url":"http://260423ccssww.toppanel.ru:8080/live/2VH051695W2446341/7wQ3Fwd8P8/127961.ts"},
 
+{"name":"M PADEL TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&usqp=CAU",
+"url":"https://daiconnect.com/live/hls/tvup/rk-mypadeltv/.m3u8?ads_amznbrmid=&ads_amznregion=&ads_amznslots=&ads_app_bundle=com.rakuten.tv&ads_app_store_url=rakuten.tv&ads_app_version=&ads_brand_name=&ads_content_classification=0&ads_device_lmt=1&ads_device_make=&ads_device_model=&ads_device_type=web&ads_device_year=&ads_did=&ads_env=prod&ads_gam_correlator=&ads_gdpr_consent=&ads_market=es&ads_opt_out_flag=1&ads_os_language=&ads_player_height=&ads_player_width=&ads_pod_type=playerpage_midroll&ads_rtv_content_id=4399&ads_rtv_content_language=spa&ads_streaming_id=0c819437-7b48-400d-9783-a604517507ff&ads_tcs_channel_id=929&ads_tivo_devcountry=&ads_tivo_devmakedate=&ads_tivo_mvpd=&ads_tivo_platform=&ads_tivo_usid=&ads_tivo_uxloc=&ads_user_type=visitor"},
+
+{"name":"ES MOTORSPOR TV", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&usqp=CAU", 
+"url":"https://9e2ee5d5.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X01vdG9yc3BvcnR0dl9ITFM/playlist.m3u8"},
+
+{"name":"M LIGA DE CAMPEONES", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&usqp=CAU", 
+"url":"http://coco3.jimaplus.xyz:8080/icardMegar/ypd5X3Xyus/60280"},
+
 {"name": "LA LIGA BAR", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url": "http://201914315501268042.ofdos.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts"}]},
 
