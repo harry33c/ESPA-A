@@ -203,8 +203,20 @@
 {"name":"MOVISTAR VAMOS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&usqp=CAU",  
 "url":"http://63203699743321072.ofnm1026.xyz:80/live/zh57339/XPNXC5KEqA/321072.ts"},
 
-{"name":"FOTMULA1", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&usqp=CAU",  
+{"name":"FORMULA1", "image":" https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1zgLT2sPFdbbV08JANP-5w53ZFephFXvINd7ftjIG6JnUOtrXKwf1E4c&s&usqp=CAU",
 "url":"http://655807113295165419.ofnm1026.xyz:80/live/Torres0512/Akemtedmw122/165419.ts"},
+
+{"name":"LIGA HIPERMOTION", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrw_Zxpvo5iRgthVFVQmN8bVtgzyEpYwQc-F61hy8TQg&s&usqp=CAU",
+"url":"http://verawest-vrcvdt.pro:8080/AndresHaro/e3ZxHnhVDnDT/272480"},
+
+{"name":"LIGA HIPERMOTION2", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrw_Zxpvo5iRgthVFVQmN8bVtgzyEpYwQc-F61hy8TQg&s&usqp=CAU",
+"url":"http://verawest-vrcvdt.pro:8080/AndresHaro/e3ZxHnhVDnDT/272481"},
+
+{"name":"LIGA HIPERMOTION3", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSrw_Zxpvo5iRgthVFVQmN8bVtgzyEpYwQc-F61hy8TQg&s&usqp=CAU",
+"url":"http://verawest-vrcvdt.pro:8080/AndresHaro/e3ZxHnhVDnDT/272484"},
+
+{"name":"DANZ1", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE311R93p_3AQv3wq0pG3JCqXh1ycNDdEp6TXPrNiBt2bcayYjNeWlgds&s&usqp=CAU",
+"url":"http://365300.solanaflix.com:8080/eF3cfE7QP6/qzhDC772DwW4/60297"},
 
 {"name": "LA LIGA BAR", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url": "http://201914315501268042.ofdos.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts"}]},
