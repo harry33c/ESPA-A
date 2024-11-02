@@ -110,12 +110,15 @@
 "url": "http://servertvleyenda.online:8080/play/yq1n4T2F-r_KuI26JRpAOFMKPeh_CH5lV0ZKsp-nEcGp92NbfAM3nkxrKbURMuY9/ts"},
 
 {"name": "FUTSAL TV 1", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url":"http://365300.solanaflix.com:8080/eF3cfE7QP6/qzhDC772DwW4/111219"},
 
 {"name": "FUTSAL TV 2", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url":"http://365300.solanaflix.com:8080/eF3cfE7QP6/qzhDC772DwW4/111220"},
 
 {"name": "FUTSAL TV 3", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
+
 "url":"http://365300.solanaflix.com:8080/eF3cfE7QP6/qzhDC772DwW4/111221"},
 
 {"name": "20 RFEF", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPMe8aUbKca3bdxtrhJanIDzGiCHQ2OyPigw&usqp=CAU",
@@ -199,6 +202,9 @@
 
 {"name":"MOVISTAR VAMOS", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&usqp=CAU",  
 "url":"http://63203699743321072.ofnm1026.xyz:80/live/zh57339/XPNXC5KEqA/321072.ts"},
+
+{"name":"FOTMULA1", "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&usqp=CAU",  
+"url":"http://655807113295165419.ofnm1026.xyz:80/live/Torres0512/Akemtedmw122/165419.ts"},
 
 {"name": "LA LIGA BAR", "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyLyGJZXMNptLFmeeMOXG4JLH0zSZhK_UvbqxY84h5KA&s",
 "url": "http://201914315501268042.ofdos.xyz:80/live/fe23100/7gpmSSG95CQt/268042.ts"}]},
